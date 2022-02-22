@@ -6,6 +6,6 @@ num2 = 6.3
 # Add two numbers
 sub = num1 - num2
 
-# Display the sub
+# show the sub
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
 
